@@ -1,5 +1,5 @@
-# Machine-Learning-2025
+# Machine Learning 2025  
 
-**Nama** : Ahmad Naufal Ilham
-**Absen** : 04
-**NIM** : 2341720047
+**Nama**  : Ahmad Naufal Ilham  
+**NIM**   : 2341720047  
+**Absen** : 04  
